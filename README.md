@@ -60,29 +60,31 @@ Spring Boot를 사용하여 REST API를 구축하였으며, 주요 API는 아래
 ## 스크린샷
 1. 메인화면
 갤러리 웹사이트의 메인화면으로, 로그인 여부에 따라 상단 메뉴가 달라집니다.
-![스크린샷 2024-10-01 124549](https://github.com/user-attachments/assets/5c41d718-2214-4b51-89dc-07b38644ea94)
+![스크린샷 2024-10-01 131702](https://github.com/user-attachments/assets/3e517280-573f-4042-94a6-fe80b4a21292)
+![image](https://github.com/user-attachments/assets/4ead4dfa-6cf2-4c80-8822-6751488025f7)
 
 
 
-2. 로그인 화면
+
+3. 로그인 화면
 사용자가 로그인할 수 있는 화면입니다. 이메일과 비밀번호를 입력하고 로그인 버튼을 클릭하여 JWT 토큰을 발급받습니다.
 ![스크린샷 2024-10-01 125007](https://github.com/user-attachments/assets/fcaabba0-22d1-4b77-8d38-d39fec49c1b1)
 
 
 
-3. 장바구니 화면
+4. 장바구니 화면
 사용자가 장바구니에 담은 상품을 확인할 수 있습니다. 휴지통 아이콘을 누르면 상품이 삭제되고, 구입하기 버튼을 클릭하면 결제 화면으로 이동합니다.
 ![스크린샷 2024-10-01 125402](https://github.com/user-attachments/assets/b7f680a0-7697-4cc7-89d8-917ecb015abb)
 
 
 
-4. 결제 화면
+5. 결제 화면
 사용자는 이름, 주소, 결제 수단을 입력한 후 '결제하기' 버튼을 눌러 주문을 완료할 수 있습니다.
 ![스크린샷 2024-10-01 125631](https://github.com/user-attachments/assets/5dd3a5e7-b186-4168-8984-4027636d9f81)
 
 
 
-5. 주문 내역 화면
+6. 주문 내역 화면
 주문이 완료된 후 사용자는 주문 내역을 확인할 수 있습니다.
 ![스크린샷 2024-10-01 125915](https://github.com/user-attachments/assets/5c317c81-c544-42fa-b21a-56800627cf2f)
 
